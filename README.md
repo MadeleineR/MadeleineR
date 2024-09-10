@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Madeleine
 - 👀 I’m interested in Web Frontend & Backend Development
-- 🌱 I’m currently learning React, Svelte, Kotlin
 - 📫 Contact me: madeleine.redl@gmail.com
 
 <!---
